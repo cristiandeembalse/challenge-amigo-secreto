@@ -14,5 +14,3 @@ Alura LATAM :point_right: https://www.aluracursos.com/
 Discord
 
 cristian_33442
-
-![amigo-secreto]([images/mi-imagen.png](https://github.com/cristiandeembalse/challenge-amigo-secreto/blob/main/amigo-secreto.png))
