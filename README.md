@@ -9,8 +9,6 @@ Es una de las posibles soluciones al Challenge Amigo secreto, del curso Practica
 
 Alura LATAM :point_right: https://www.aluracursos.com/
 
-![Challenge amigo secreto](challenge-amigo-secreto.png)
-
 <em>Contacto</em> :iphone:
 
 Discord
